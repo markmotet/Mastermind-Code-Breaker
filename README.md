@@ -21,7 +21,7 @@ A command line program that suggests guesses, allowing the user to win a game of
 
 ### Useful links
 - [Mastermind rules](https://www.wikihow.com/Play-Mastermind)
-- [Swaszek's algorithm and analysis](arxiv.org/pdf/1305.1010.pdf)
+- [Swaszek's algorithm and analysis](https://arxiv.org/pdf/1305.1010.pdf)
 
 ### To do:
 - Exit the program when the user declares that all four red sliders are pulled out
