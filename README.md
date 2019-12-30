@@ -24,9 +24,9 @@ A command line program that suggests guesses, allowing the user to win a game of
 - [Swaszek's algorithm and analysis](https://arxiv.org/pdf/1305.1010.pdf)
 
 ### To do:
-- Exit the program when the user declares that all four red sliders are pulled out
-- Add exceptions to slider inputs of greater than four or less than zero
-- Clean up MastermindGuesser() by creating more functions
-- Add options to customize the number of peg colours and pegs per code
-- Make the console interface more appealing and intuitive
-- Create an android app using this code?
+- [ ] Exit the program when the user declares that all four red sliders are pulled out
+- [ ] Add exceptions to slider inputs of greater than four or less than zero
+- [ ] Clean up MastermindGuesser() by creating more functions
+- [ ] Add options to customize the number of peg colours and pegs per code
+- [ ] Make the console interface more appealing and intuitive
+- [ ] Create an android app using this code?
