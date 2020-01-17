@@ -15,7 +15,7 @@ A command line program that suggests code guesses that allow the user to win a g
   - *Red slider* to the number of exactly correct pegs that are in the code guesser's guess
 - The code guesser continues to make informed guesses based on their previous guesses until he or she guesses the exact code
 
-## Importand Information
+## Important Information
 - There are four colours per Mastermind code
 - There are eight colours (red, orange, yellow, green, blue, pink, grey, white)
 - There are 8^4 (4096) possible codes
