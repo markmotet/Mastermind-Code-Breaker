@@ -55,5 +55,6 @@ This program works using a linked list that stores every possible combination fr
 - [ ] Clean up MastermindGuesser() by creating more functions
 - [ ] Add options to customize the number of peg colours and pegs per code
 - [ ] Make the console interface more appealing and intuitive
+- [ ] Allow users to input strings for colours instead of numbers
 - [ ] Implement a GUI?
 - [ ] Implement this code in an Android app using Android Studio?
